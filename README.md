@@ -2,7 +2,7 @@
 <div align="center">
 <!-- Image of the heading -->
   <br />
-    <h3>See the screenshot below for a glimpse of the editor's streamlined interface </h3>
+    <h3>See the screenshot of React Code Editor</h3>
 
   ![React Code Editor Image](<react code editor.png>)
   <br/>
